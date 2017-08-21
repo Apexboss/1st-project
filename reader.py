@@ -62,6 +62,7 @@ score3 = c_a3 + exam3
 score4 = c_a4 + exam4    
         
 
+print('-----------------------------')        
 print('Subject  ','|','CA','|','Exam','|','Score')
 print('-----------------------------')
 print('English  ','|',c_a1,'|',exam1,' ','|',score1)
